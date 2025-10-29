@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Yan Zhang's Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
