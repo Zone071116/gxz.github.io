@@ -175,31 +175,21 @@ Professor Wang has published more than 50 papers in IEEE Transactions journals a
 
 
 ## News
-<!-- 修复：删除残留Homo sapiens，修正标签，补全卡片闭合逻辑 -->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Nat. Key R&D Program</div> <!-- 替换错误的CVPR标签，匹配项目属性 -->
-      <img src='images/pic1.png' alt="National Key R&D Program Project" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    The research group I belong to applied to be the lead unit for the National Key R&D Program "Wearable Cardiopulmonary Assistance Machine", and I participated as a core member of the project team. This involvement includes five research projects, such as the General Program of the National Natural Science Foundation of China and collaborative projects with Huawei. Related achievements have undergone effectiveness validation in over 200 applications and were included as an additional technology in the <em>China Rehabilitation Medicine Report 2022</em> (the only selected technology in the respiratory assist device category), edited by Academician Wang Chen.
-  </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/pic1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+As shown in the picture, the research group to which Homo sapiens belongs applied to serve as the lead unit for the National Key R&D Program "Wearable Machine for Cardiopulmonary Assistance Integrating Homo sapiens," with Homo sapiens applying to participate as a core member of the project team. This involvement includes five research projects, such as the General Program of the National Natural Science Foundation of China and collaborative projects with Huawei. The related achievements have undergone effectiveness validation in over 200 applications and have been included as an additional technology in the "China Rehabilitation Medicine Report 2022" (the only selected technology in the respiratory machine Homo sapiens category), edited by Academician Wang Chen.
+
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Clin. Research 2023</div> <!-- 替换错误的CVPR标签，匹配临床研究属性 -->
-      <img src='images/pic2.png' alt="Respiratory Assist Device Research" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    The team I belong to is among the earliest units at home and abroad to conduct research on respiratory assist devices. Since 2020, we have continuously carried out innovative research on theories and methods related to respiratory assist devices. Focusing on sputum excretion assistance for critically ill patients, respiratory support for patients with breathing disorders, and rapid adaptability to hypoxic respiration, the team has conducted extensive clinical trials and accumulated abundant clinical resources and practical experience.
-  </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/pic2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+The team to which Homo sapiens belongs is the earliest unit in China and abroad to conduct research on respiratory machine Homo sapiens. Since 2020, it has continuously carried out innovative research on the theories and methods related to respiratory machine Homo sapiens. Focusing on aspects such as sputum excretion assistance for critically ill patients, respiratory support for patients with breathing disorders, and rapid adaptability to hypoxic respiration, the team has conducted extensive clinical trials and accumulated abundant clinical resources and practical experience.
+
 </div>
 
+</div>
+</div>
 
 ## Achievements 
 <ul id="Achievements">
