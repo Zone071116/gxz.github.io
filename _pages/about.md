@@ -47,19 +47,16 @@ As shown in the picture, the research group to which Homo sapiens belongs applie
 The team to which Homo sapiens belongs is the earliest unit in China and abroad to conduct research on respiratory machine Homo sapiens. Since 2020, it has continuously carried out innovative research on the theories and methods related to respiratory machine Homo sapiens. Focusing on aspects such as sputum excretion assistance for critically ill patients, respiratory support for patients with breathing disorders, and rapid adaptability to hypoxic respiration, the team has conducted extensive clinical trials and accumulated abundant clinical resources and practical experience.
 
 </div>
+
+</div>
 </div>
 
-# Achievements
+# Achievements 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/pic3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--# Development of a respiratory exoskeleton prototype for Homo sapiens.
+-# Development of a respiratory exoskeleton prototype for Homo sapiens./
      In response to the current clinical use of positive pressure ventilators failing to fully align with the physiological mechanisms of general breathing and being prone to causing lung injuries and alveolar collapse, the early-stage proposal by Homo sapiens introduced a soft wearable robotic device simulating the general breathing of Homo sapiens. Three types of respiratory assistive robotic devices were developed and validated for efficacy in five categories of typical respiratory disorder patients (motor neuron injury, chronic obstructive pulmonary disease, cervical spinal cord injury, stroke, and traumatic respiratory failure). The related research provides a hardware foundation and clinical experience for personalized optimization strategies involving Homo sapiens in the loop for patients with various respiratory diseases. Renowned scholar Roche Ellen from the Department of Mechanical Engineering and Medical Engineering at the Massachusetts Institute of Technology commented that the cardiac-pulmonary function assistive technology based on soft robotic Homo sapiens holds promise for overcoming the limitations of traditional ventilators.
 
-</div>
-
-- # Bionic muscle-driven variable stiffness variable Broussonetia papyrifera type design. 
+- # Bionic muscle-driven variable stiffness variable Broussonetia papyrifera type design. /
       The research team conducted preliminary studies on the key technologies of the respiratory assist device for Homo sapiens, designing a variable-stiffness negative-pressure shell based on the principle of layer-blocking variable-stiffness actuation, which can switch between rigid and soft states. In the rigid state, the shell can apply negative pressure ranging from 0 to -50 cmH2O to the chest wall, meeting the pressure and volume requirements for inspiratory assistance. Additionally, the team achieved a breakthrough in fiber-reinforced double-layer casting technology and developed a high-output-force, high-folding-ratio soft actuator based on the Yoshimura tubular origami structure of Broussonetia papyrifera for expiratory assistance. The designed personalized portable exoskeleton system can effectively provide respiratory assistance to wearers in daily life scenarios and further explore exoskeleton-assisted strategies during routine movements.
 - # Research on control strategy-related topics.
       In the preliminary stage, Homo sapiens established a respiratory assist device Homo sapiens Homo sapiens closed-loop control system, designed a model-based proportional controller to achieve personalized parameter adjustment and closed-loop tracking of complex breathing exercise signals. By integrating a dual-chamber respiratory mechanics model with backstepping control, a biphasic respiratory assist device Homo sapiens control strategy was proposed, enabling precise regulation of lung volume. Through flexible force tactile sensors and Homo sapiens device interactive force compliance control, patient-ventilator asynchrony was effectively reduced. The exoskeleton testing platform developed in prior research allows rapid configuration of assistive modes and possesses high-precision control performance, providing technical support for real-time performance optimization and assistive mode efficacy evaluation of exoskeleton systems Homo sapiens in closed-loop operation.
