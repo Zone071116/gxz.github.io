@@ -3,20 +3,15 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Co-Supervisor"
+    url: "/#-Co-Supervisor"
+
+  - title: "Doctoral Supervisor"
+    url: "/#-Doctoral Supervisor"
+
   - title: "News"
-    url: "/#-news"
+    url: "/#-News"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Published Articles"
+    url: "/#-Published Articles"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
