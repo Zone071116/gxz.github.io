@@ -2,3 +2,19 @@
 main:
   - title: "About Me"
     url: "/yanzhang.github.io/#about-me"
+<<<<<<< HEAD
+=======
+
+  - title: "Co-Supervisor"
+    url: "/yanzhang.github.io/#Co-Supervisor"
+
+  - title: "Doctoral Supervisor"
+    url: "/yanzhang.github.io/#Doctoral Supervisor"
+
+  - title: "News"
+    url: "/yanzhang.github.io/#News"
+
+  - title: "Published Articles"
+    url: "/yanzhang.github.io/#Published Articles"
+
+>>>>>>> d18c5e9f43a9e22e6fc778ca524a9006a3a86f77
