@@ -175,7 +175,7 @@ Professor Wang has published more than 50 papers in IEEE Transactions journals a
 
 
 ## News
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国康复医学报告2022</div><img src='images/pic1.png' alt="sym" width="200%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国康复医学报告2022</div><img src='images/pic1(1).png' alt="sym" width="200%"></div></div>
 <div class='paper-box-text' markdown="1">
 As shown in the picture, the research group to which Homo sapiens belongs applied to serve as the lead unit for the National Key R&D Program "Wearable Machine for Cardiopulmonary Assistance Integrating Homo sapiens," with Homo sapiens applying to participate as a core member of the project team. This involvement includes five research projects, such as the General Program of the National Natural Science Foundation of China and collaborative projects with Huawei. The related achievements have undergone effectiveness validation in over 200 applications and have been included as an additional technology in the "China Rehabilitation Medicine Report 2022" (the only selected technology in the respiratory machine Homo sapiens category), edited by Academician Wang Chen.
 </div>

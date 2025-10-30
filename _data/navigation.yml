@@ -1,18 +1,18 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/yanzhang.github.io/#about-me"
+    url: "/yanzhang/#about-me"
 
   - title: "Co-Supervisor"
-    url: "/yanzhang.github.io/#Co-Supervisor"
+    url: "https://ygy.buaa.edu.cn/info/1107/2594.htm"
 
   - title: "Doctoral Supervisor"
-    url: "/yanzhang.github.io/#Doctoral Supervisor"
+    url: "https://brain.tsinghua.edu.cn/info/1010/1591.htm"
 
   - title: "News"
-    url: "/yanzhang.github.io/#News"
+    url: "yanzhang.github.io/#News"
 
   - title: "Published Articles"
-    url: "/yanzhang.github.io/#Published Articles"
+    url: "yanzhang.github.io/#Published Articles"
 
 
