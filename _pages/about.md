@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yan Zhang's Homepage"
+title: "Kailun Mai's Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -201,28 +201,10 @@ h2 {
 
 <span class='anchor' id='about-me'></span>
 
-## About Me: Yan Zhang
+## About Me
 <div class="profile-intro">
-I am a "Distinguished Hundred Talents" postdoctoral fellow at Beihang University. My research focuses on key issues in respiratory exoskeleton robots, including bionic mechanisms, variable-stiffness and variable-configuration design, and human-in-the-loop control.<br>
-I have published 4 SCI papers as the first author or corresponding author, including high-level papers in <em>IEEE Transactions on Biomedical Engineering</em> (IEEE TBME, a Q1 journal in the biomedical engineering field) and <em>IEEE Transactions on Neural Systems and Rehabilitation Engineering</em> (IEEE TNSRE, a Q1 journal in the rehabilitation field). My doctoral dissertation was awarded the 2025 Doctoral Dissertation Incentive Program by the Technical Committee on Intelligent Robots of the China Computer Federation. Relevant achievements were invited for a presentation at the Youth Forum of the 2025 China Haptic Technology and Application Conference (ranked <strong>3rd out of 80 participants</strong>).
+I strictly adhere to school and class regulations, respect teachers, and unite with classmates; actively participate in volunteer services (such as tree-planting activities on Arbor Day and serving as a referee for the Freshmen Cup table tennis competition), assist in cleaning the Shahe Town Service Center, serve as a dormitory leader to help maintain the cleanliness of the dormitory floors, and fully uphold collective honor. I study diligently, maintaining the habit of "previewing before class, focusing during class, and reviewing after class," with academic performance consistently ranking at the top of the class. I actively participate in competitions and scientific research activities, including the Beihang AERO Racing Team competition, and have been awarded honors such as Outstanding Science and Technology Camp Participant by the school. In my spare time, I expand my knowledge through popular science books like "Global Science" to enhance my academic literacy. I maintain a daily exercise routine, actively participate in table tennis (Fengyun Cup) and volleyball competitions; join the school's volleyball and billiards clubs, and take part in their regular activities. (ranked <strong>3rd out of 80 participants</strong>).
 </div>
-
-
-## Co-Supervisor: Yubo Fan
-<div class="profile-intro">
-Professor Fan Yubo is a recipient of the National Distinguished Young Scientist Fund. He currently serves as Dean of the Interdisciplinary Innovation Institute of Medical and Engineering, Dean of the School of Medical Science and Engineering, and Dean of the School of Biological and Medical Engineering at Beihang University.<br>
-He also holds the positions of Director of the National Medical Research and Development Industry-Education Integration Platform (Medical-Engineering Integration), Director of the Beijing Advanced Innovation Center for Biomedical Engineering, and Director of the Key Laboratory of Biomechanics and Mechanobiology of the Ministry of Education.<br>
-Professor Fan is a Changjiang Scholar Distinguished Professor, leader of the Innovation Group of the National Natural Science Foundation of China, and leader of the Innovation Team in Key Fields of the Ministry of Science and Technology. He is a recipient of the Special Government Allowance of the State Council. Additionally, he is a Fellow of the American Institute for Medical and Biological Engineering (AIMBE), International Academy for Medical and Biological Engineering (IAMBE), International Union for Physical and Engineering Sciences in Medicine (IUPESM), and Federation of the International Societies for Biomaterials Science and Engineering (FBSE).
-</div>
-
-
-## Doctoral Supervisor: Dangxiao Wang
-<div class="profile-intro">
-Professor Wang Dangxiao is a doctoral supervisor at Beihang University and Deputy Director of the State Key Laboratory of Virtual Reality Technology and Systems. He is also the Chief Scientist of a National Key Research and Development Program project.<br>
-He has previously served as Chair of the IEEE Technical Committee on Haptics, Chair of AsiaHaptics 2022, and Associate Editor of <em>IEEE Transactions on Haptics</em> (IEEE TOH). His research areas include medical rehabilitation robots, haptic human-computer interaction, and brain-computer interface technology.<br>
-Professor Wang has published more than 50 papers in IEEE Transactions journals as the first or corresponding author, including 25 papers in <em>IEEE Transactions on Haptics</em> (a top journal in the haptics field) as the first/corresponding author (ranked <strong>5th globally</strong> in terms of author order in the Web of Science database).
-</div>
-
 
 ## News
 <!-- 图片优化：移除原400%宽度错误设置，依赖CSS控制尺寸 -->
@@ -230,7 +212,7 @@ Professor Wang has published more than 50 papers in IEEE Transactions journals a
   <div class='paper-box-image'>
     <div>
       <div class="badge">中国康复医学报告2022</div>
-      <img src='images/pic1(1).png' alt="中国康复医学报告2022相关图片">
+      <img src='images/pic-m.png' alt="中国康复医学报告2022相关图片">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
