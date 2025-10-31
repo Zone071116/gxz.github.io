@@ -36,40 +36,48 @@ h2 {
   color: #2980b9; /* 高亮关键信息：如项目、奖项 */
 }
 
-/* 4. 论文卡片：优化布局+响应式适配 */
+/* 4. 论文卡片：优化图片排版+响应式适配（核心优化部分） */
 .paper-box {
   display: flex;
-  gap: 20px;
-  padding: 20px;
-  margin-bottom: 30px;
+  gap: 25px; /* 增加图片与文字间距，避免拥挤 */
+  padding: 25px;
+  margin: 0 auto 35px; /* 水平居中，增加底部间距 */
+  max-width: 1100px; /* 限制卡片最大宽度，避免过宽 */
   background: #fff;
   border-radius: 10px;
-  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
-  align-items: flex-start; /* 图片与文字顶部对齐 */
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.06); /* 微调阴影，更显质感 */
+  align-items: center; /* 图片与文字垂直居中对齐，更协调 */
 }
-/* 移动端：卡片改为垂直布局 */
+/* 移动端：卡片改为垂直布局，图片居中 */
 @media (max-width: 768px) {
   .paper-box {
     flex-direction: column;
+    padding: 20px;
+    gap: 20px;
   }
   .paper-box-image {
     flex: 0 0 auto !important; /* 取消固定宽度 */
-    margin-bottom: 15px;
+    width: 100% !important; /* 图片占满容器 */
+    max-width: 350px !important; /* 限制移动端图片最大宽度，避免过大 */
+    margin: 0 auto 15px !important; /* 图片居中 */
   }
 }
 .paper-box-image {
-  flex: 0 0 220px; /* 适度加宽图片区域 */
+  flex: 0 0 240px; /* 适度加宽图片区域，提升视觉占比 */
+  margin: 5px 0; /* 上下微留间距，避免贴边 */
 }
 .paper-box-image img {
-  border-radius: 6px;
-  object-fit: cover;
+  border-radius: 8px; /* 增加圆角，更显柔和 */
+  object-fit: cover; /* 保持图片比例，避免拉伸变形 */
   width: 100%;
-  height: 160px; /* 固定图片高度，避免变形 */
+  height: 180px; /* 适度提高图片高度，增强视觉效果 */
+  border: 1px solid #f0f0f0; /* 增加细边框，区分图片与背景 */
 }
 .paper-box-text {
   flex: 1;
   font-size: 15px;
   color: #34495e;
+  padding: 5px 0; /* 上下微留间距，避免文字贴边 */
 }
 
 /* 5. 成果列表：优化间距+层级 */
@@ -121,7 +129,7 @@ h2 {
   font-weight: bold;
 }
 
-/* 8. 谷歌学术统计：居中显示+间距 */
+/* 8. 谷歌学术统计：居中显示+间距（已保留原样式，若后续启用可直接用） */
 .gs-stats {
   text-align: center;
   margin: 40px 0;
@@ -131,23 +139,6 @@ h2 {
   vertical-align: middle;
 }
 </style>
-
-<!-- 谷歌学术统计功能：补全显示逻辑 -->
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<!-- 加载谷歌学术统计数据（若配置启用） -->
-{% if site.show_google_scholar_stats %}
-<div class="gs-stats">
-  <img src="https://img.shields.io/badge/dynamic/json?url={{ url }}&label=Total%20Citations&query=citations.total&color=2c3e50" alt="Total Citations">
-  <img src="https://img.shields.io/badge/dynamic/json?url={{ url }}&label=h--index&query=citations.hindex&color=3498db" alt="h-index">
-  <img src="https://img.shields.io/badge/dynamic/json?url={{ url }}&label=i10--index&query=citations.i10index&color=2980b9" alt="i10-index">
-</div>
-{% endif %}
 
 <span class='anchor' id='about-me'></span>
 
@@ -175,10 +166,17 @@ Professor Wang has published more than 50 papers in IEEE Transactions journals a
 
 
 ## News
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国康复医学报告2022</div><img src='images/pic1(1).png' alt="sym" width="400%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- 图片优化：移除原400%宽度错误设置，依赖CSS控制尺寸 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">中国康复医学报告2022</div>
+      <img src='images/pic1(1).png' alt="中国康复医学报告2022相关图片">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 As shown in the picture, the research group to which Homo sapiens belongs applied to serve as the lead unit for the National Key R&D Program "Wearable Machine for Cardiopulmonary Assistance Integrating Homo sapiens," with Homo sapiens applying to participate as a core member of the project team. This involvement includes five research projects, such as the General Program of the National Natural Science Foundation of China and collaborative projects with Huawei. The related achievements have undergone effectiveness validation in over 200 applications and have been included as an additional technology in the "China Rehabilitation Medicine Report 2022" (the only selected technology in the respiratory machine Homo sapiens category), edited by Academician Wang Chen.
-</div>
+  </div>
 </div>
 
 ## Achievements 
